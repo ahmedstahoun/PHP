@@ -1,0 +1,14 @@
+{
+  "name": "labs/lab2",
+  "description": "l",
+  "license": "MIT",
+  "require": {
+    "endroid/qr-code": "*"
+  },
+  "autoload": {
+    "files": [
+      "config.php",
+      "functions.php"
+    ]
+  }
+}
